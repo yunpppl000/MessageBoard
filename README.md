@@ -24,32 +24,32 @@ Jsp+Servlet+JavaBean学习阶段的一个案例总结
  
  ***tb_user表***
  
- |字段|类型|名称|说明|
+ |  字段  |   类型  |   名称  |   说明  |
 
- |id|int|id||
+ |  id  |   int |   id  ||
  
- |name|nvarchar|姓名||
+ |  name    |   nvarchar    |   姓名  |
  
- |password|nvarchar|密码||
+ |  password    |   nvarchar    |   密码  |
  
- |limit|int|权限|0:允许发言   1:禁止发言|
+ |  limit   |   int |   权限  |   0:允许发言   1:禁止发言 |
  
- |tag|int|标签| 0:用户       1:管理员|
+ |  tag |   int |   标签  |   0:用户       1:管理员    |
  
 
 
 ***tb_message表***
 
- |字段|类型|名称|说明|
+ |  字段  |   类型  |   名称  |   说明  |
  
 
- |id|int|id||
+ |  id  |   int |   id  |
  
- |author|nvarchar|作者||
+ |  author  |   nvarchar    |   作者  |
  
- |context|nvarchar|留言内容||
+ |  context |   nvarchar    |   留言内容    |
  
- |msgdate|datetime|留言时间|
+ |  msgdate |   datetime    |   留言时间    |
  
 
 
@@ -73,6 +73,13 @@ Jsp+Servlet+JavaBean学习阶段的一个案例总结
 
 ![这里写图片描述](http://img.blog.csdn.net/20160801124402727)
 
+
+----------
+
+登录前的界面：
+![image](https://github.com/YEN-GitHub/MessageBoard/tree/master/Img/1.png)
+登录后的界面：
+![image](https://github.com/YEN-GitHub/MessageBoard/tree/master/Img/2.png)
 
 ----------
 
