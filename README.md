@@ -26,7 +26,7 @@ Jsp+Servlet+JavaBean学习阶段的一个案例总结
  
  |  字段  |   类型  |   名称  |   说明  |
 
- |  id  |   int |   id  ||
+ |  id  |   int |   id  |
  
  |  name    |   nvarchar    |   姓名  |
  
