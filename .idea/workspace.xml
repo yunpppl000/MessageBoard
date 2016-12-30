@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99650ef5-5078-4bc0-bd74-17c23932ae7c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Img/1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Img/2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/artifacts/MessageBoard_war_exploded/WEB-INF/classes/Servlet/SelectServlet.class" afterPath="$PROJECT_DIR$/out/artifacts/MessageBoard_war_exploded/WEB-INF/classes/Servlet/SelectServlet.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/MessageBoard/Servlet/SelectServlet.class" afterPath="$PROJECT_DIR$/out/production/MessageBoard/Servlet/SelectServlet.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -35,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="518">
-              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+              <caret line="82" column="69" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -198,6 +193,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="js-jscs-nodeInterpreter" value="C:\NodeJS\node.exe" />
+    <property name="GO_FMT" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -784,12 +780,20 @@
       <workItem from="1469914728137" duration="29551000" />
       <workItem from="1470012369832" duration="4548000" />
       <workItem from="1470023675284" duration="3629000" />
-      <workItem from="1483094636759" duration="801000" />
+      <workItem from="1483094636759" duration="906000" />
     </task>
+    <task id="LOCAL-00001" summary="项目简介完善">
+      <created>1483095475095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1483095475095</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38529000" />
+    <option name="totallyTimeSpent" value="38634000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="780" extended-state="0" />
@@ -829,6 +833,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目简介完善" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目简介完善" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1141,7 +1149,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <caret line="82" column="69" selection-start-line="82" selection-start-column="69" selection-end-line="82" selection-end-column="69" />
           <folding />
         </state>
       </provider>

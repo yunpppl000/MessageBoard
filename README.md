@@ -77,9 +77,10 @@ Jsp+Servlet+JavaBean学习阶段的一个案例总结
 ----------
 
 登录前的界面：
-![image](https://github.com/YEN-GitHub/MessageBoard/tree/master/Img/1.png)
+![image](https://github.com/YEN-GitHub/MessageBoard/blob/master/Img/1.png)
+
 登录后的界面：
-![image](https://github.com/YEN-GitHub/MessageBoard/tree/master/Img/2.png)
+![image](https://github.com/YEN-GitHub/MessageBoard/blob/master/Img/2.png)
 
 ----------
 
